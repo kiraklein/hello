@@ -1,6 +1,6 @@
-# Aegis — Klein Consulting
+# Velceron
 
-A polished, responsive marketing site for Aegis, an AI governance platform by Klein Consulting.
+A polished, responsive marketing site for Velceron, an autonomous security operations platform.
 
 ## Development
 

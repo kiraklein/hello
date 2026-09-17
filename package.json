@@ -1,5 +1,5 @@
 {
-  "name": "aegis-website",
+  "name": "velceron-website",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -7,6 +7,5 @@
     "dev": "python3 -m http.server 4173",
     "build": "node scripts/build.mjs",
     "preview": "python3 -m http.server 4173 -d dist"
-  },
-  "dependencies": {}
+  }
 }
